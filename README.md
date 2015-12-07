@@ -16,8 +16,8 @@ Install and run the project
 
 download/clone the project
 prepare the database
-import in MySQL the self-contained file that comes with the project - demo-rest-jersey-spring / src / main / resources / input_data / DumpRESTdemoDB.sql
-username/password - rest_demo/rest_demo
+import in MySQL the self-contained file that comes with the project - SpringRestCrud/SpringRestCrud/SQL
+username/root - rest_demo/password
 
 In case you want to test the application with some dummy data and without using any client application, you can do that using Chrome's Postman - REST Client. 
 Make sure to set content-type: application/json when sending form data in JSON format to the service.
